@@ -201,7 +201,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="bg-secondary text-center">© 2018 Forests. All Rights Reserved</div>
+				<div class="bg-secondary text-center">© 2018 Forests. All Rights Reserved | Design by Nam Nguyen</div>
 			</div>
 		
 	</div>
